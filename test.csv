@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1636651658614,180,Jmeter Home Page,200,OK,Thread Group 1-1,text,true,,13084,115,1,1,http://jmeter.apache.org/,163,0,100
+1636651658795,288,Download Page,200,OK,Thread Group 1-1,text,true,,12121,134,1,1,http://jmeter.apache.org/download_jmeter.cgi,262,0,0
+1636651659083,72,User Manual,200,OK,Thread Group 1-1,text,true,,21918,136,1,1,http://jmeter.apache.org/usermanual/index.html,52,0,0
+1636651659155,634,Download Page,200,OK,Thread Group 1-1,text,true,,12121,134,1,1,http://jmeter.apache.org/download_jmeter.cgi,620,0,0
+1636651659789,86,Jmeter Home Page,200,OK,Thread Group 1-1,text,true,,13084,115,1,1,http://jmeter.apache.org/,81,0,0
+1636651659876,88,User Manual,200,OK,Thread Group 1-1,text,true,,21918,136,1,1,http://jmeter.apache.org/usermanual/index.html,70,0,0
